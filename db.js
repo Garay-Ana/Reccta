@@ -15,7 +15,7 @@ db.connect((err) => {
     console.error("❌ Error conectando a la base de datos:", err.message);
     return;
   }
-  console.log("✅ Conexión a MySQL en Clever Cloud exitosa");
+  console.log("✅ Conexión a MySQL en Clever Cloud exitosaaa");
 });
 
 module.exports = db;
